@@ -16,5 +16,5 @@
 ### 6. Configuration de la sécurité WS-Security avec UsernameToken
 ![TOKENConfig](https://github.com/user-attachments/assets/9c2f496b-a886-4159-a5e9-3cc72e9b592c)
 
-### 7. Requête SOAP sécurisée (UsernameToken envoyé) et réponse du service
+### 7. Test de la requête sécurisée avec UsernameToken et réponse du service
 ![ResultApresConfig](https://github.com/user-attachments/assets/57cc1550-384f-45e1-aacf-01f41aca4322)
